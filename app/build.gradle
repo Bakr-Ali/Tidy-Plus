@@ -33,7 +33,7 @@ android {
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.slavabarkov.tidy"
+        applicationId "com.slavabarkov.tidy.plus"
         minSdk 26
         targetSdk 34
         versionCode 2
